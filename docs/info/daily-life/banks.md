@@ -7,7 +7,7 @@ currency conversion.
 
 Each bank has its own requirements and procedures to open an account. Generally, you will need:
 
-- Skatteverket's ID card (see [ID Card](/docs/info/move-to-sweden/id-card))
+- Skatteverket's ID card (see [ID Card](/docs/info/move-to-sweden/ID-card))
 - Your passport or national ID card
 - Your Swedish personal identity number (*personnummer*)
 - Proof of enrollment from the university (notification letter from [antagning.se](https://www.antagning.se/) or [universityadmissions.com](https://www.universityadmissions.com/), same website different language)
@@ -41,7 +41,7 @@ To start the process, visit their office in person and ask one of the employees 
 
 ### SEB
 
-SEB is another major bank in Sweden. The branch in Karlstad is located at Drottninggatan 24. You can find more information on their [official website](https://seb.se/privat/bli-kund/new-in-sweden/guide-if-you-have-a-swedish-id-card).
+SEB is another major bank in Sweden. The branch in Karlstad is located at Drottninggatan 24. You can find more information on their [official website](https://seb.se/privat/bli-kund/new-in-sweden/guide-if-you-have-a-swedish-ID-card).
 
 To start the process, fill in the online form on their website.
 

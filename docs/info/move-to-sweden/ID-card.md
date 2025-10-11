@@ -8,7 +8,7 @@ More information can be found on the [official page](https://www.skatteverket.se
 
 The ID card costs 400 SEK and requires 1-2 weeks to be ready.
 
-1. **Pay the fee**: Pay the 400 SEK fee by making a bank transfer to the following account: IBAN SE55 1200 0000 0128 1012 1613; Swift/BIC DABASESX. 
+1. **Pay the fee**: Pay the 400 SEK fee by making a bank transfer to the following account: IBAN SE55 1200 0000 0128 1012 1613; Swift/BIC DABASESX.
 
 :::danger
 Double-check the IBAN on the [official page](https://www.skatteverket.se/servicelankar/otherlanguages/englishengelska/individualsandemployees/livinginsweden/swedishtaxagencyidentitycards.4.7da1d2e118be03f8e4f30bb.html).
