@@ -25,7 +25,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'info/move-to-sweden/freja',
         'info/move-to-sweden/notification',
-        'info/move-to-sweden/ID-card',
+        'info/move-to-sweden/id-card',
       ]
     },
     {

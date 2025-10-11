@@ -15,7 +15,7 @@ Each bank has its own requirements and procedures to open an account. Generally,
 Some banks may also require additional documents based on your specific situation and citizenship.
 
 :::important
-You **do not** need to open a bank account at the bank in Arvika. They come during the orientation week to provide some general information. The univeristy has not negotiated any special conditions with them. 
+You **do not** need to open a bank account at the bank in Arvika. They come during the orientation week to provide some general information. The university has not negotiated any special conditions with them.
 
 Choose any bank you prefer.
 :::
