@@ -1,19 +1,36 @@
 # Window change 2026
 
-:::note
-The large white poster attached in the main lobby of each building.
-:::
+The windows in our buildings will be replaced during 2026. Each apartment will be affected for 3-5 days.
 
-In the first quarter of 2026, all windows in the buildings will be replaced with new ones. There will be heavy machinery
-throughout the area, and the work is expected to cause noise and dust.
-
-Each apartment will be affected for 3-5 days, during which the windows will be removed and hazardous materials such as
-asbestos and PCB will be handled according to regulations. During this time, the windows will be sealed of and you will
-not be able to open them. You **do not** need to vacate your apartment nor be present.
+During this time, the windows will be sealed of and you will
+not be able to open them. You **do not** need to vacate your apartment.
 
 The new windows will be equipped with triple glazing, ventilation function and built-in blinds.
 
-Before your building is scheduled for window replacement, you will receive a pamphlet in the mail with more information and
-instructions on how to prepare your apartment for the work.
-
 For more information, visit the [information page (swedish only)](https://redaktor.hsb.se/varmland/brf/rud/om-foreningen/fonsterbyte/).
+
+Below is a rough translation of the information posters attached inside the buildings.
+
+## Large poster
+
+Starting on January 7, the windows in the buildings located at Horsensgatan 2-48
+will be replaced, starting from Horsensgatan 46. The work is expected to be done
+for all buildings by July 26.
+
+During the preliminary checks, PCB and asbestos were found in some of the windows.
+Sanitation of these hazardous materials will be done according to regulations during
+the window replacement.
+
+As a tenant, you will receive a letter before starting the work in your apartment.
+Information will be sent out around 1 month before and again 1 week before the work starts.
+
+During the work, heavy machinery and other vehicles will be present in the area.
+For your safety, try to keep a safe distance from the work area.
+
+For more information, contact the contractor Peab via [email](mailto:brfrud@tpeab.se)
+or phone 073-337 34 68 between 08:00 and 15:30.
+
+## Small poster
+
+Between October and December, some preliminary work will be done in order to prepare
+for the contractor.
