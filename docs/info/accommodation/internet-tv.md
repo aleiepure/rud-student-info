@@ -15,3 +15,11 @@ To open an account with Telia, visit their store in person at Bergvik shopping m
 :::tip
 The internet connection enters your apartment in the box located in the hallway next to the bathroom door. To connect your router via the box near the window in the main room, you’ll need an additional ethernet cable. Use it to connect the two ethernet plugs on the hallway box to enable the internet connection in the main room.
 :::
+
+:::danger Important: Don't Let Invoices Expire
+In Sweden, failing to pay an invoice by its due date can have serious consequences that escalate quickly. Once the due date passes, companies will typically charge you a reminder fee (*påminnelseavgift*) plus penalty interest calculated from the original due date. Keep in mind that companies are not legally required to send you a reminder. It's your responsibility to track payment deadlines.
+
+If the invoice remains unpaid after a reminder (if one was sent), the case gets handed to a debt collection agency (*inkasso*), which adds their own fees on top of what you already owe. In some cases, companies skip the *inkasso* step and send the case directly to Kronofogden (the Swedish Enforcement Authority). If you fail to dispute or pay Kronofogden's payment order within the specified timeframe, you'll receive a "*betalningsanmärkning*" (payment remark or "black mark") on your credit record.
+
+This black mark stays on your record for three years and will severely impact your daily life. It will prevent you from getting phone contracts, obtaining credit cards or loans, and renting cars or accommodations (including keeping current ones). If you're planning to stay in Sweden long-term, a *betalningsanmärkning* can also negatively affect visa renewals, citizenship applications, and many other essential activities.
+:::
