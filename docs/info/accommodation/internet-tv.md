@@ -6,6 +6,8 @@ In the apartments located in Horsensgatan and Fadderortsgatan, you have two opti
 
 Tele2 provides internet through a coaxial cable connection. You can find more information about their plans and pricing on their [official website](https://www.tele2.se/privat/bredband/).
 
+The housing association that manages the area (HSB) has negotiated for the whole area to get FREE access to Tele2’s basic TV package, which includes popular channels like SVT1, SVT2, TV4, and more. If you have a TV with a coaxial input, you can just connect it to the wall outlet in your apartment to access these channels, no additional steps needed. In alternative, and to receive even more channels, you have to "purchase" the free package at the following link (swedish only): https://www.tele2.se/tv/kollektivt-tv-utbud.
+
 ## Telia
 
 Telia offers internet via fiber optic connections. The real estate agency has negotiated a package for all the apartments in Horsensgatan and Fadderortsgatan, which includes 150/150 Mbps internet and the basic TV package (streamed via the Telia Play app) for 399 SEK/month with a binding period of 12 months. You can use your own router instead of buying theirs for 999 SEK; there are cheaper options available.
